@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'SFUDaxCondensedMedium';
+  src: url('SFUDaxCondensedMedium.eot?#iefix') format('embedded-opentype'),  
+    url('SFUDaxCondensedMedium.woff') format('woff'), 
+    url('SFUDaxCondensedMedium.ttf')  format('truetype'), 
+    url('SFUDaxCondensedMedium.svg#SFUDaxCondensedMedium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
